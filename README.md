@@ -5,8 +5,6 @@
 I chose to do an analysis on boxouts in the game provided. Rebounding is a huge part of basketball, with rebounding considered one of the four factors. There are many different aspects to rebounding, but one of them is box outs, where you prevent an opposing player from getting better positioning. This makes a player's chance of getting a rebound higher, and the opposing player's lower. It also helps set up the rest of your team.
 
 
-I also apologize for the messiness of my code/markdown, I misread the deadline as due on Monday night instead of Sunday night.
-
 ## Process
 
 I first went through the JSON files and found the snapshot of the times were there was judged to be a shot and the positions of all the players at that time. I also cross-referenced this with the play by play provided on the NBA website to ensure some accuracy: https://www.nba.com/game/cha-vs-tor-0021500492/play-by-play?period=All . I did this through identifying some thresholds:
